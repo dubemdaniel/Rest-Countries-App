@@ -1,11 +1,9 @@
 /**
- * 
  * EasyHTTP Library
  * 
  * @version 3.0.0
  * @author Chukwudubem Daniel
  * @license Dubem
- * 
  * 
  */
 
